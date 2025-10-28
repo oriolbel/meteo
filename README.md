@@ -1,6 +1,10 @@
 # Meteocat Tools 
 
-Meteocat tools is a Python script for interacting with Meteocat API data. Mainly to determine which areas meet the proper conditions to grow certain plant species. 
+Meteocat tools is a python script for interacting with Meteocat API data. Mainly to determine which areas meet the proper conditions to grow certain plant species. 
+
+# Version
+
+1.0
 
 ## Prerequisites
 
