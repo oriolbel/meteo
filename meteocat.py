@@ -24,7 +24,7 @@ else:
     station_code = "YO"
     print("Invalid choice. Defaulting to Sant Sadurní d'Anoia (YO).")
 
-# Configuration
+# Configurations
 base_url = 'https://api.meteo.cat/xema/v1'
 start_date = datetime.today()
 num_days = 10
