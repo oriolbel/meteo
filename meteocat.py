@@ -26,7 +26,7 @@ else:
 
 # Configuration
 base_url = 'https://api.meteo.cat/xema/v1'
-start_date = datetime(2025, 10, 27)
+start_date = datetime.today()
 num_days = 10
 daily_summary = []
 
